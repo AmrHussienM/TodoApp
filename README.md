@@ -11,7 +11,7 @@
 
 ### Installing
 
-Use the [Google fonts](https://fonts.google.com)
+Use the [Google fonts](https://fonts.googleapis.com/css2?family=Open+Sans&display=swap)
 
 
 ```
