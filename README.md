@@ -13,9 +13,12 @@
 
 Use the [Google fonts](https://fonts.googleapis.com/css2?family=Open+Sans&display=swap)
 
-
+*style.css
 ```
-font-family: "Open Sans",sans-serif;
+body{
+    
+    font-family: "Open Sans",sans-serif;
+}
 ```
 
 #### Deployment
