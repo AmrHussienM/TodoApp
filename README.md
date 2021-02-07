@@ -1,8 +1,8 @@
 # Project Title
 
-A simple list on paper of things “To Do” is enough for some people.
+(TODO APP)A simple list on paper of things “To Do” is enough for some people.
 
-### Prerequisites
+## Prerequisites
 
 *HTML
 *CSS
@@ -11,14 +11,14 @@ A simple list on paper of things “To Do” is enough for some people.
 
 ### Installing
 
-Use the [Google fonts](https://fonts.google.com/specimen/Open+Sans?query=ope&preview.text_type=custom)
-to install google fonts.
+Use the [Google fonts](https://fonts.google.com)
+
 
 ```
 font-family: "Open Sans",sans-serif;
 ```
 
-## Deployment
+#### Deployment
 
 1. preparing files (html,css,js,php).
 2. upload on GitHub.
