@@ -4,19 +4,20 @@
 
 ## Prerequisites
 
-*HTML
-*CSS
-*JAVASCRIPT
-*PHP
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
 
 ### Installing
 
 Use the [Google fonts](https://fonts.googleapis.com/css2?family=Open+Sans&display=swap)
 
-*style.css
+
+* style.css
 ```
 body{
-    
+
     font-family: "Open Sans",sans-serif;
 }
 ```
